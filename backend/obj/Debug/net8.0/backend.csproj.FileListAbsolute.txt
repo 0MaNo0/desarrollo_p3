@@ -1,0 +1,76 @@
+C:\Users\DocenteDAII\Desktop\proyecto_web\backend\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\DocenteDAII\Desktop\proyecto_web\backend\bin\Debug\net8.0\appsettings.json
+C:\Users\DocenteDAII\Desktop\proyecto_web\backend\bin\Debug\net8.0\backend.exe
+C:\Users\DocenteDAII\Desktop\proyecto_web\backend\bin\Debug\net8.0\backend.deps.json
+C:\Users\DocenteDAII\Desktop\proyecto_web\backend\bin\Debug\net8.0\backend.runtimeconfig.json
+C:\Users\DocenteDAII\Desktop\proyecto_web\backend\bin\Debug\net8.0\backend.dll
+C:\Users\DocenteDAII\Desktop\proyecto_web\backend\bin\Debug\net8.0\backend.pdb
+C:\Users\DocenteDAII\Desktop\proyecto_web\backend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\DocenteDAII\Desktop\proyecto_web\backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DocenteDAII\Desktop\proyecto_web\backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DocenteDAII\Desktop\proyecto_web\backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DocenteDAII\Desktop\proyecto_web\backend\obj\Debug\net8.0\backend.csproj.AssemblyReference.cache
+C:\Users\DocenteDAII\Desktop\proyecto_web\backend\obj\Debug\net8.0\backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DocenteDAII\Desktop\proyecto_web\backend\obj\Debug\net8.0\backend.AssemblyInfoInputs.cache
+C:\Users\DocenteDAII\Desktop\proyecto_web\backend\obj\Debug\net8.0\backend.AssemblyInfo.cs
+C:\Users\DocenteDAII\Desktop\proyecto_web\backend\obj\Debug\net8.0\backend.csproj.CoreCompileInputs.cache
+C:\Users\DocenteDAII\Desktop\proyecto_web\backend\obj\Debug\net8.0\backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DocenteDAII\Desktop\proyecto_web\backend\obj\Debug\net8.0\backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DocenteDAII\Desktop\proyecto_web\backend\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\DocenteDAII\Desktop\proyecto_web\backend\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\DocenteDAII\Desktop\proyecto_web\backend\obj\Debug\net8.0\staticwebassets\msbuild.backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DocenteDAII\Desktop\proyecto_web\backend\obj\Debug\net8.0\staticwebassets\msbuild.build.backend.props
+C:\Users\DocenteDAII\Desktop\proyecto_web\backend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.backend.props
+C:\Users\DocenteDAII\Desktop\proyecto_web\backend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.backend.props
+C:\Users\DocenteDAII\Desktop\proyecto_web\backend\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\DocenteDAII\Desktop\proyecto_web\backend\obj\Debug\net8.0\scopedcss\bundle\backend.styles.css
+C:\Users\DocenteDAII\Desktop\proyecto_web\backend\obj\Debug\net8.0\backend.csproj.Up2Date
+C:\Users\DocenteDAII\Desktop\proyecto_web\backend\obj\Debug\net8.0\backend.dll
+C:\Users\DocenteDAII\Desktop\proyecto_web\backend\obj\Debug\net8.0\refint\backend.dll
+C:\Users\DocenteDAII\Desktop\proyecto_web\backend\obj\Debug\net8.0\backend.pdb
+C:\Users\DocenteDAII\Desktop\proyecto_web\backend\obj\Debug\net8.0\backend.genruntimeconfig.cache
+C:\Users\DocenteDAII\Desktop\proyecto_web\backend\obj\Debug\net8.0\ref\backend.dll
+C:\Users\DocenteDAII\Desktop\proyecto_web\backend\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\DocenteDAII\Desktop\proyecto_web\backend\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\DocenteDAII\Desktop\proyecto_web\backend\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\DocenteDAII\Desktop\proyecto_web\backend\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\DocenteDAII\Desktop\proyecto_web\backend\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DocenteDAII\Desktop\proyecto_web\backend\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP\Desktop\Practica III desarrollo\proyecto_web\backend\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\HP\Desktop\Practica III desarrollo\proyecto_web\backend\bin\Debug\net8.0\appsettings.json
+C:\Users\HP\Desktop\Practica III desarrollo\proyecto_web\backend\bin\Debug\net8.0\backend.exe
+C:\Users\HP\Desktop\Practica III desarrollo\proyecto_web\backend\bin\Debug\net8.0\backend.deps.json
+C:\Users\HP\Desktop\Practica III desarrollo\proyecto_web\backend\bin\Debug\net8.0\backend.runtimeconfig.json
+C:\Users\HP\Desktop\Practica III desarrollo\proyecto_web\backend\bin\Debug\net8.0\backend.dll
+C:\Users\HP\Desktop\Practica III desarrollo\proyecto_web\backend\bin\Debug\net8.0\backend.pdb
+C:\Users\HP\Desktop\Practica III desarrollo\proyecto_web\backend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\HP\Desktop\Practica III desarrollo\proyecto_web\backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP\Desktop\Practica III desarrollo\proyecto_web\backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP\Desktop\Practica III desarrollo\proyecto_web\backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HP\Desktop\Practica III desarrollo\proyecto_web\backend\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\HP\Desktop\Practica III desarrollo\proyecto_web\backend\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\HP\Desktop\Practica III desarrollo\proyecto_web\backend\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\HP\Desktop\Practica III desarrollo\proyecto_web\backend\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\HP\Desktop\Practica III desarrollo\proyecto_web\backend\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP\Desktop\Practica III desarrollo\proyecto_web\backend\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP\Desktop\Practica III desarrollo\proyecto_web\backend\obj\Debug\net8.0\backend.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Practica III desarrollo\proyecto_web\backend\obj\Debug\net8.0\backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Practica III desarrollo\proyecto_web\backend\obj\Debug\net8.0\backend.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Practica III desarrollo\proyecto_web\backend\obj\Debug\net8.0\backend.AssemblyInfo.cs
+C:\Users\HP\Desktop\Practica III desarrollo\proyecto_web\backend\obj\Debug\net8.0\backend.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Practica III desarrollo\proyecto_web\backend\obj\Debug\net8.0\backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\Desktop\Practica III desarrollo\proyecto_web\backend\obj\Debug\net8.0\backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Desktop\Practica III desarrollo\proyecto_web\backend\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\HP\Desktop\Practica III desarrollo\proyecto_web\backend\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\HP\Desktop\Practica III desarrollo\proyecto_web\backend\obj\Debug\net8.0\staticwebassets\msbuild.backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP\Desktop\Practica III desarrollo\proyecto_web\backend\obj\Debug\net8.0\staticwebassets\msbuild.build.backend.props
+C:\Users\HP\Desktop\Practica III desarrollo\proyecto_web\backend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.backend.props
+C:\Users\HP\Desktop\Practica III desarrollo\proyecto_web\backend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.backend.props
+C:\Users\HP\Desktop\Practica III desarrollo\proyecto_web\backend\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\HP\Desktop\Practica III desarrollo\proyecto_web\backend\obj\Debug\net8.0\scopedcss\bundle\backend.styles.css
+C:\Users\HP\Desktop\Practica III desarrollo\proyecto_web\backend\obj\Debug\net8.0\backend.csproj.Up2Date
+C:\Users\HP\Desktop\Practica III desarrollo\proyecto_web\backend\obj\Debug\net8.0\backend.dll
+C:\Users\HP\Desktop\Practica III desarrollo\proyecto_web\backend\obj\Debug\net8.0\refint\backend.dll
+C:\Users\HP\Desktop\Practica III desarrollo\proyecto_web\backend\obj\Debug\net8.0\backend.pdb
+C:\Users\HP\Desktop\Practica III desarrollo\proyecto_web\backend\obj\Debug\net8.0\backend.genruntimeconfig.cache
+C:\Users\HP\Desktop\Practica III desarrollo\proyecto_web\backend\obj\Debug\net8.0\ref\backend.dll
